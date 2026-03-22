@@ -1,4 +1,10 @@
-Ansible-Backup-Lab/
+# Chặn các file rác và log
 *.log
 __pycache__/
-.DS_Storeinventory/hosts.yml
+.DS_Store
+
+# Chặn file chứa password thật
+inventory/hosts.yml
+
+# Chặn file RAM ảo siêu nặng của GNS3 (Giữ lại khung sơ đồ)
+Ansible-Backup-Lab/project-files/dynamips/*
