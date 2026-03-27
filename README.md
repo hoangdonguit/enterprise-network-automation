@@ -8,7 +8,7 @@
 
 ## 📐 Network Topology
 
-*(Insert your GNS3 topology image here. Example: `![Network Topology](image-1.png)`)*
+![alt text](image-4.png)
 
 The network model is implemented using a daisy-chain structure with the following IP parameters:
 
